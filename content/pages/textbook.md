@@ -8,20 +8,153 @@ These files form the textbook _Operational Amplifiers: Theory and Practice_, Jam
 
 [Download the book as a single file (PDF)](/ans7870/RES/RES.6-010/MITRES_6-010S13_comchaptrs.pdf)
 
-| Chapter # | Topics |
-| --- | --- |
-| Front Material | [Preface and Contents (PDF)]({{< baseurl >}}/resources/mitres_6-010s13_frnt_matr) |
-| 1 | [Background and Objectives (PDF)]({{< baseurl >}}/resources/mitres_6-010s13_chap01) |
-| 2 | [Properties and Modeling of Feedback Systems (PDF - 1.6MB)]({{< baseurl >}}/resources/mitres_6-010s13_chap02) |
-| 3 | [Linear System Response (PDF - 1.8MB)]({{< baseurl >}}/resources/mitres_6-010s13_chap03) |
-| 4 | [Stability (PDF - 2.4MB)]({{< baseurl >}}/resources/mitres_6-010s13_chap04) |
-| 5 | [Compensation (PDF - 2.0MB)]({{< baseurl >}}/resources/mitres_6-010s13_chap05) |
-| 6 | [Non-Linear Systems (PDF - 1.5MB)]({{< baseurl >}}/resources/mitres_6-010s13_chap06) |
-| 7 | [Direct-Coupled Amplifiers (PDF - 2.0MB)]({{< baseurl >}}/resources/mitres_6-010s13_chap07) |
-| 8 | [Operational-Amplifier Design Techniques (PDF - 2.0MB)]({{< baseurl >}}/resources/mitres_6-010s13_chap08) |
-| 9 | [An Illustrative Design (PDF - 2.0MB)]({{< baseurl >}}/resources/mitres_6-010s13_chap09) |
-| 10 | [Integrated-Circuit Operational Amplifiers (PDF - 2.5MB)]({{< baseurl >}}/resources/mitres_6-010s13_chap10) |
-| 11 | [Basic Applications (PDF - 2.2MB)]({{< baseurl >}}/resources/mitres_6-010s13_chap11) |
-| 12 | [Advanced Applications (PDF - 3.1)]({{< baseurl >}}/resources/mitres_6-010s13_chap12) |
-| 13 | [Compensation Revisited (PDF - 5.2MB)]({{< baseurl >}}/resources/mitres_6-010s13_chap13) |
-| Back Matter | [Index (PDF)]({{< baseurl >}}/resources/mitres_6-010s13_index)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Chapter #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Front Material
+{{< tdclose >}}
+{{< tdopen >}}
+[Preface and Contents (PDF)]({{< baseurl >}}/resources/mitres_6-010s13_frnt_matr)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+[Background and Objectives (PDF)]({{< baseurl >}}/resources/mitres_6-010s13_chap01)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+[Properties and Modeling of Feedback Systems (PDF - 1.6MB)]({{< baseurl >}}/resources/mitres_6-010s13_chap02)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+[Linear System Response (PDF - 1.8MB)]({{< baseurl >}}/resources/mitres_6-010s13_chap03)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+[Stability (PDF - 2.4MB)]({{< baseurl >}}/resources/mitres_6-010s13_chap04)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+[Compensation (PDF - 2.0MB)]({{< baseurl >}}/resources/mitres_6-010s13_chap05)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+[Non-Linear Systems (PDF - 1.5MB)]({{< baseurl >}}/resources/mitres_6-010s13_chap06)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+[Direct-Coupled Amplifiers (PDF - 2.0MB)]({{< baseurl >}}/resources/mitres_6-010s13_chap07)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+[Operational-Amplifier Design Techniques (PDF - 2.0MB)]({{< baseurl >}}/resources/mitres_6-010s13_chap08)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+[An Illustrative Design (PDF - 2.0MB)]({{< baseurl >}}/resources/mitres_6-010s13_chap09)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+[Integrated-Circuit Operational Amplifiers (PDF - 2.5MB)]({{< baseurl >}}/resources/mitres_6-010s13_chap10)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+[Basic Applications (PDF - 2.2MB)]({{< baseurl >}}/resources/mitres_6-010s13_chap11)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+[Advanced Applications (PDF - 3.1)]({{< baseurl >}}/resources/mitres_6-010s13_chap12)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+[Compensation Revisited (PDF - 5.2MB)]({{< baseurl >}}/resources/mitres_6-010s13_chap13)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Back Matter
+{{< tdclose >}}
+{{< tdopen >}}
+[Index (PDF)]({{< baseurl >}}/resources/mitres_6-010s13_index)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
