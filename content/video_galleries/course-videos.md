@@ -30,7 +30,7 @@ videos:
 
 Below is a collection of lectures that Prof. Roberge gave in 1985. The videos are also available on the [Teaching Excellence at MIT](http://teachingexcellence.mit.edu/category/inspiring-teachers/james-k-roberg-6-302-electronic-feedback-systems) site.
 
-The lectures cover classical feedback control, and represent a condensed version of a subject he taught at MIT during that time. Prof. Roberge continues to teach an equivalent subject, [6.302 _Feedback Systems_](/courses/6-302-feedback-systems-spring-2007/), at MIT.
+The lectures cover classical feedback control, and represent a condensed version of a subject he taught at MIT during that time. Prof. Roberge continues to teach an equivalent subject, [6.302 _Feedback Systems_](/courses/6-302-feedback-systems-spring-2007), at MIT.
 
 {{< video-gallery "68468aba-4d94-0ec0-b77f-0033eecd6922" >}}
 

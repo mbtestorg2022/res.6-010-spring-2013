@@ -4,6 +4,7 @@ description: This resource contains information regarding properties and modelin
   of feedback systems.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/res-6-010-electronic-feedback-systems-spring-2013/307cb9d5beb51f58cb44b699e0c9cac2_MITRES_6-010S13_chap02.pdf
 file_type: application/pdf
+parent_uid: c87237fe-22ae-0a95-48ee-30c2382847cc
 resourcetype: Document
 title: 'Operational Amplifiers: Chapter 2'
 uid: 307cb9d5-beb5-1f58-cb44-b699e0c9cac2

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding root locus.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/res-6-010-electronic-feedback-systems-spring-2013/7436b4cc41bd699cad4eebf8227b3d0c_MITRES_6-010S13_lec05.pdf
 file_type: application/pdf
+parent_uid: 1870fed2-ef12-92c6-8bbe-9fdcf7c71870
 resourcetype: Document
 title: 'Electronic Feedback Systems: Lecture 5'
 uid: 7436b4cc-41bd-699c-ad4e-ebf8227b3d0c
